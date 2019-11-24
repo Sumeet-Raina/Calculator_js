@@ -19,3 +19,9 @@ table {
   text-align: right;
   border: none;
 }
+
+#input {
+  border-radius: 5px 5px 0px 0px;
+  box-shadow: 2px 2px 2px black;
+  color: #1e1e1e;
+}
