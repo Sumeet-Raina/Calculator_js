@@ -40,3 +40,8 @@ input[type-button] {
   border-radius: 8px;
   border: none;
 }
+
+input[type-button]:hover{
+  background: #cbcbcb;
+  cursor: pointer ;
+}
